@@ -1,12 +1,12 @@
 title: Dark Reader
 markdown: kramdown
 url: ""
-baseurl: "/jekyll-theme-dark-reader"
+baseurl: ""
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: RpppLi
+  email: vsian_v@outlook.com
 
 plugins:
   - jekyll-paginate
